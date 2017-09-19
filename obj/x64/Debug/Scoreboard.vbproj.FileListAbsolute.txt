@@ -1,0 +1,27 @@
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x64\Debug\Scoreboard.vbproj.GenerateResource.Cache
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\Resources\Home270x270.png
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\Resources\AWAY270x270.png
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\Resources\Utvisning Hämma.png
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\Resources\AETV Lower third.png
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x64\Debug\Scoreboard.vbprojResolveAssemblyReference.cache
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\AEtvScoreHockey.exe.config
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\AEtvScoreHockey.resx
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\AEtvScoreHockeyOut.resx
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\AEtvScoreHockey.vb
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\AEtvScoreHockey.Designer.vb
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\AEtvScoreHockeyOut.Designer.vb
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\AEtvScoreHockeyOut.vb
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\AEtvScoreHockey.exe
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\AEtvScoreHockey.pdb
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x64\Debug\AEtvScoreHockey.AEtvScoreHockey.resources
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x64\Debug\AEtvScoreHockey.AETVHockeyScoreBoardOut.resources
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x64\Debug\AEtvScoreHockey.Resources.resources
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x64\Debug\AEtvScoreHockey.exe
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x64\Debug\AEtvScoreHockey.pdb
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\AEtvScoreHockey.exe.manifest
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\AEtvScoreHockey.application
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\AEtvScoreHockey.exe.CodeAnalysisLog.xml
+D:\Scoreboard\Scoreboard\Scoreboard\bin\x64\Debug\AEtvScoreHockey.exe.lastcodeanalysissucceeded
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x64\Debug\AEtvScoreHockey.TrustInfo.xml
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x64\Debug\AEtvScoreHockey.exe.manifest
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x64\Debug\AEtvScoreHockey.application

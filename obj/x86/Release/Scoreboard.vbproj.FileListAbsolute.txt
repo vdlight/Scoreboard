@@ -1,0 +1,67 @@
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Release\Scoreboard.exe
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Release\Scoreboard.pdb
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Release\Scoreboard.xml
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Release\Scoreboard.vbproj.GenerateResource.Cache
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Release\Scoreboard.exe
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Release\Scoreboard.xml
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Release\Scoreboard.pdb
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Release\Scoreboard.exe.manifest
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Release\Scoreboard.application
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Release\Scoreboard.exe.manifest
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Release\Scoreboard.application
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Release\WindowsApplication1.Form2.resources
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Release\Resources\Scoreboard.png
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Release\Form1.resx
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Release\Form2.resx
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Release\Form1.vb
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Release\Form1.Designer.vb
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Release\Form2.Designer.vb
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Release\Form2.vb
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Release\Scoreboard_TemporaryKey.pfx
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Release\Scoreboard.vbproj.GenerateResource.Cache
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Release\AEtvScoreHockey.resx
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Release\AEtvScoreHockeyOut.resx
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Release\AEtvScoreHockey.vb
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Release\AEtvScoreHockey.Designer.vb
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Release\AEtvScoreHockeyOut.Designer.vb
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Release\AEtvScoreHockeyOut.vb
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Release\Resources\Home270x270.png
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Release\Resources\AWAY270x270.png
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Release\TAIF-TV Scoreboard.exe.config
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Release\TAIF-TV Scoreboard.exe.manifest
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Release\TAIF-TV Scoreboard.application
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Release\TAIF-TV Scoreboard.exe
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Release\TAIF-TV Scoreboard.pdb
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Release\TAIFTVscoreboard.AEtvScoreHockey.resources
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Release\TAIFTVscoreboard.AETVHockeyScoreBoardOut.resources
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Release\TAIFTVscoreboard.Resources.resources
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Release\TAIF-TV Scoreboard.TrustInfo.xml
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Release\TAIF-TV Scoreboard.exe.manifest
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Release\TAIF-TV Scoreboard.application
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Release\TAIF-TV Scoreboard.exe
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Release\TAIF-TV Scoreboard.pdb
+E:\GitHub\scoreboard\Scoreboard\bin\Release\AEtvScoreHockey.resx
+E:\GitHub\scoreboard\Scoreboard\bin\Release\AEtvScoreHockeyOut.resx
+E:\GitHub\scoreboard\Scoreboard\bin\Release\AEtvScoreHockey.vb
+E:\GitHub\scoreboard\Scoreboard\bin\Release\AEtvScoreHockey.Designer.vb
+E:\GitHub\scoreboard\Scoreboard\bin\Release\AEtvScoreHockeyOut.Designer.vb
+E:\GitHub\scoreboard\Scoreboard\bin\Release\AEtvScoreHockeyOut.vb
+E:\GitHub\scoreboard\Scoreboard\bin\Release\Resources\Home270x270.png
+E:\GitHub\scoreboard\Scoreboard\bin\Release\Resources\AWAY270x270.png
+E:\GitHub\scoreboard\Scoreboard\bin\Release\TAIF-TV Scoreboard.exe.config
+E:\GitHub\scoreboard\Scoreboard\bin\Release\TAIF-TV Scoreboard.exe.manifest
+E:\GitHub\scoreboard\Scoreboard\bin\Release\TAIF-TV Scoreboard.application
+E:\GitHub\scoreboard\Scoreboard\bin\Release\TAIF-TV Scoreboard.exe
+E:\GitHub\scoreboard\Scoreboard\bin\Release\TAIF-TV Scoreboard.pdb
+E:\GitHub\scoreboard\Scoreboard\obj\x86\Release\Scoreboard.vbprojResolveAssemblyReference.cache
+E:\GitHub\scoreboard\Scoreboard\obj\x86\Release\TAIFTVscoreboard.AEtvScoreHockey.resources
+E:\GitHub\scoreboard\Scoreboard\obj\x86\Release\TAIFTVscoreboard.AETVHockeyScoreBoardOut.resources
+E:\GitHub\scoreboard\Scoreboard\obj\x86\Release\TAIFTVscoreboard.Resources.resources
+E:\GitHub\scoreboard\Scoreboard\obj\x86\Release\Scoreboard.vbproj.GenerateResource.Cache
+E:\GitHub\scoreboard\Scoreboard\obj\x86\Release\TAIF-TV Scoreboard.TrustInfo.xml
+E:\GitHub\scoreboard\Scoreboard\obj\x86\Release\TAIF-TV Scoreboard.exe.manifest
+E:\GitHub\scoreboard\Scoreboard\obj\x86\Release\TAIF-TV Scoreboard.application
+E:\GitHub\scoreboard\Scoreboard\obj\x86\Release\TAIF-TV Scoreboard.exe
+E:\GitHub\scoreboard\Scoreboard\obj\x86\Release\TAIF-TV Scoreboard.pdb

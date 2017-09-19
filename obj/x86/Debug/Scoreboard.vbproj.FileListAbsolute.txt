@@ -1,0 +1,49 @@
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Debug\AEtvScoreHockey.resx
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Debug\AEtvScoreHockeyOut.resx
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Debug\AEtvScoreHockey.vb
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Debug\AEtvScoreHockey.Designer.vb
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Debug\AEtvScoreHockeyOut.Designer.vb
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Debug\AEtvScoreHockeyOut.vb
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Debug\Resources\Home270x270.png
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Debug\Resources\AWAY270x270.png
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Debug\Resources\Utvisning Hämma.png
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Debug\Resources\AETV Lower third.png
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Debug\AEtvScoreHockey.exe.config
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Debug\AEtvScoreHockey.exe
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Debug\AEtvScoreHockey.pdb
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Debug\AEtvScoreHockey.AEtvScoreHockey.resources
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Debug\AEtvScoreHockey.AETVHockeyScoreBoardOut.resources
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Debug\AEtvScoreHockey.Resources.resources
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Debug\Scoreboard.vbproj.GenerateResource.Cache
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Debug\AEtvScoreHockey.exe
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Debug\AEtvScoreHockey.pdb
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Debug\AEtvScoreHockey.exe.manifest
+D:\Scoreboard\Scoreboard\Scoreboard\bin\Debug\AEtvScoreHockey.application
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Debug\AEtvScoreHockey.TrustInfo.xml
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Debug\AEtvScoreHockey.exe.manifest
+D:\Scoreboard\Scoreboard\Scoreboard\obj\x86\Debug\AEtvScoreHockey.application
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Debug\AEtvScoreHockey.exe.config
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Debug\AEtvScoreHockey.exe
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Debug\AEtvScoreHockey.pdb
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Debug\Scoreboard.vbprojResolveAssemblyReference.cache
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Debug\AEtvScoreHockey.AEtvScoreHockey.resources
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Debug\AEtvScoreHockey.AETVHockeyScoreBoardOut.resources
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Debug\AEtvScoreHockey.Resources.resources
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Debug\Scoreboard.vbproj.GenerateResource.Cache
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Debug\AEtvScoreHockey.TrustInfo.xml
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Debug\AEtvScoreHockey.exe.manifest
+C:\Users\seautkrka1\Desktop\Scoreboard\obj\x86\Debug\AEtvScoreHockey.application
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Debug\AEtvScoreHockey.resx
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Debug\AEtvScoreHockeyOut.resx
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Debug\AEtvScoreHockey.vb
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Debug\AEtvScoreHockey.Designer.vb
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Debug\AEtvScoreHockeyOut.Designer.vb
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Debug\AEtvScoreHockeyOut.vb
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Debug\Resources\Home270x270.png
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Debug\Resources\AWAY270x270.png
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Debug\Resources\Utvisning Hämma.png
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Debug\Resources\AETV Lower third.png
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Debug\AEtvScoreHockey.exe.manifest
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Debug\AEtvScoreHockey.application
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Debug\AEtvScoreHockey.exe
+C:\Users\seautkrka1\Desktop\Scoreboard\bin\Debug\AEtvScoreHockey.pdb
